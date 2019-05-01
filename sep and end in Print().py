@@ -1,4 +1,4 @@
-/*
+'''
 sep and end in Print() Submissions: 6727   Accuracy: 72.63%   Difficulty: Easy   Marks: 2
 Associated Course(s):   Fork Python
    
@@ -17,7 +17,8 @@ Geeks$For$Geeks$
 Example:
 Output:
 Geeks$For$Geeks$
-*/
+'''
+
 
 //Position this line where user code will be pasted.
 def main():
