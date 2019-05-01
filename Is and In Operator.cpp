@@ -66,6 +66,6 @@ def number_present(num, query):
     for i in range(len(num)):    #write this here - i in range(len(num))
                              # see the use of 'in' in for loop
         if (num[i] == query): #write this here - num[i] is query
-                             # see the use of 'is' as equal to
+              #query is num[i]               # see the use of 'is' as equal to
             return True
     return False 
